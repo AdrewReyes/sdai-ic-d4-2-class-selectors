@@ -13,3 +13,19 @@
 }
 
 
+.sub-headers {
+    color: rgb(73, 50, 205);
+    font-size: 32px;
+    background-color: rgba(168, 161, 161, 0.158);
+}
+
+
+.link-color {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.about-us-text {
+    color: blue;
+    font-size: 32px;
+}
